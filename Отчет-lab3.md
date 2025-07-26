@@ -18,7 +18,9 @@
 
 <img width="732" height="319" alt="A_and_B" src="https://github.com/user-attachments/assets/3f07f81d-1f27-4eff-8529-9276f03c7182" />
 
-Получаем IP-адрес машины B: `10.0.2.4`. В терминале машины А вводим команду `ping 10.0.2.4` и убеждаемся, что машины соединены:
+Получаем IP-адрес машины B: `10.0.2.4`.
+
+В терминале машины А вводим команду `ping 10.0.2.4` и убеждаемся, что машины соединены:
 
 <img width="716" height="212" alt="A_and_B — копия" src="https://github.com/user-attachments/assets/a9020c03-111e-433b-ae5e-5207cffe2278" />
 
